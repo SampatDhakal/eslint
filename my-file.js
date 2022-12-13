@@ -14,4 +14,4 @@ function doSomeStuff(
     }
 }
 
-// doSomeStuff(array);
+doSomeStuff(array);
